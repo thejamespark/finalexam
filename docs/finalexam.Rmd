@@ -1,5 +1,5 @@
 ---
-title: "finalexam"
+title: "[SKKU] R 분석 - Final Exam"
 author: "박성준"
 date: "`r Sys.Date()`"
 output: 
